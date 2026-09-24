@@ -1,0 +1,586 @@
+[
+  {
+    "id": "lst_001",
+    "type": "restaurant",
+    "slug": "albarkat",
+    "name": {
+      "en": "Al-Barkat Restaurant",
+      "ur": "البرکت ریسٹورنٹ"
+    },
+    "shortDescription": {
+      "en": "Pakistani, BBQ, and Karahi specialist restaurant in Hasilpur",
+      "ur": "حاصل پور میں پاکستانی اور باربی کیو کا سب سے مقبول ریسٹورنٹ"
+    },
+    "description": {
+      "en": "Al-Barkat Restaurant is Hasilpur's premier family dining destination, renowned across the district for its authentic seekh kebabs, charcoal chicken tikka, sizzling mutton and chicken karahi, freshly baked tandoori naans, and courteous service. A spacious dedicated family hall and lush lawn seating ensure a comfortable atmosphere for gatherings.",
+      "ur": "البرکت ریسٹورنٹ حاصل پور کا ممتاز خاندانی ریسٹورنٹ ہے جو اپنے لذیذ باربی کیو، روایتی مٹن اور چکن کڑاہی اور بہترین سروس کے لیے پورے ضلع بہاولپور میں معروف ہے۔ فیملی ہال اور پرسکون لان کی سہولت دستیاب ہے۔"
+    },
+    "category": "restaurants",
+    "subcategory": "bbq",
+    "address": {
+      "en": "Main Bazaar, Near Clock Tower Chowk, Hasilpur",
+      "ur": "مین بازار، نزد کلاک ٹاور چوک، حاصل پور"
+    },
+    "location": {
+      "lat": 29.6967,
+      "lng": 72.5532
+    },
+    "phone": "+92 300 7861122",
+    "whatsapp": "+92 300 7861122",
+    "website": "https://hasilpur.com/restaurant/albarkat",
+    "images": [
+      {
+        "url": "/src/assets/images/restaurant_albarkat_1790236825283.jpg",
+        "publicId": "albarkat_main",
+        "alt": "Al-Barkat Restaurant BBQ & Karahi Platter",
+        "width": 1200,
+        "height": 900
+      }
+    ],
+    "tags": [
+      "Pakistani",
+      "BBQ",
+      "Karahi",
+      "Tikka",
+      "Family Dining"
+    ],
+    "services": [
+      "Dine-in",
+      "Takeaway",
+      "Home Delivery",
+      "Air Conditioned Hall",
+      "Catering"
+    ],
+    "openingHours": [
+      "Monday - Thursday: 12:00 PM - 1:00 AM",
+      "Friday - Sunday: 12:00 PM - 2:00 AM"
+    ],
+    "rating": {
+      "average": 4.8,
+      "count": 4
+    },
+    "featured": true,
+    "featuredAt": "2026-09-20T10:00:00.000Z",
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-01-10T08:00:00.000Z",
+    "updatedAt": "2026-09-20T10:00:00.000Z"
+  },
+  {
+    "id": "lst_002",
+    "type": "restaurant",
+    "slug": "sufi-shinwari-bbq",
+    "name": {
+      "en": "Sufi Shinwari & Dera BBQ",
+      "ur": "صوفی شنواری اینڈ ڈیرہ باربی کیو"
+    },
+    "shortDescription": {
+      "en": "Authentic Shinwari mutton karahi, dumpukht, and namkeen tikka",
+      "ur": "اصلی شنواری مٹن کڑاہی، دم پخت اور نمکین تکہ"
+    },
+    "description": {
+      "en": "Sufi Shinwari brings the pure taste of tribal Shinwari cuisine to Hasilpur. Known for preparing dishes exclusively in natural fats and salt, retaining authentic meat aromas.",
+      "ur": "صوفی شنواری حاصل پور میں خالص شنواری کھانوں کا مرکز ہے جہاں نمکین دنبہ اور لذیذ کڑاہی روایتی طریقے سے تیار کی جاتی ہے۔"
+    },
+    "category": "restaurants",
+    "subcategory": "shinwari",
+    "address": {
+      "en": "Bahawalpur Road, Near Canal Bridge, Hasilpur",
+      "ur": "بہاولپور روڈ، نزد نہر پل، حاصل پور"
+    },
+    "location": {
+      "lat": 29.694,
+      "lng": 72.549
+    },
+    "phone": "+92 301 6543210",
+    "whatsapp": "+92 301 6543210",
+    "website": "",
+    "images": [
+      {
+        "url": "/src/assets/images/restaurant_albarkat_1790236825283.jpg",
+        "publicId": "sufi_shinwari_1",
+        "alt": "Sufi Shinwari Mutton Dishes"
+      }
+    ],
+    "tags": [
+      "Shinwari",
+      "Mutton",
+      "Dumba",
+      "BBQ",
+      "Pakistani"
+    ],
+    "services": [
+      "Dine-in",
+      "Takeaway",
+      "Charpoy Traditional Seating"
+    ],
+    "openingHours": [
+      "Everyday: 1:00 PM - 12:00 AM"
+    ],
+    "rating": {
+      "average": 4.9,
+      "count": 98
+    },
+    "featured": true,
+    "featuredAt": "2026-09-24T08:08:01.034Z",
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-02-14T09:00:00.000Z",
+    "updatedAt": "2026-09-24T08:08:01.034Z"
+  },
+  {
+    "id": "lst_003",
+    "type": "hotel",
+    "slug": "city-plaza-hotel",
+    "name": {
+      "en": "City Plaza Hotel & Executive Suites",
+      "ur": "سٹی پلازہ ہوٹل اینڈ ایگزیکٹو سوئیٹس"
+    },
+    "shortDescription": {
+      "en": "Modern boutique hospitality with corporate meeting halls and deluxe rooms",
+      "ur": "کارپوریٹ میٹنگ ہالز، پرسکون ڈی لکس کمرے اور جدید سہولیات"
+    },
+    "description": {
+      "en": "City Plaza Hotel is Hasilpur's premier modern lodging establishment catering to business travelers, wedding parties, and tourists. Features 24/7 backup generators, high-speed WiFi, complimentary breakfast, and guarded parking.",
+      "ur": "سٹی پلازہ ہوٹل حاصل پور کا صف اول کا رہائشی ہوٹل ہے جس میں جدید ایئرکنڈیشنڈ کمرے، جنریٹر بیک اپ، وائی فائی اور شاندار مہمان نوازی فراہم کی جاتی ہے۔"
+    },
+    "category": "hotels",
+    "subcategory": "executive",
+    "address": {
+      "en": "Chishtian Road, Opposite City Park, Hasilpur",
+      "ur": "چشتیاں روڈ، بالمقابل سٹی پارک، حاصل پور"
+    },
+    "location": {
+      "lat": 29.6985,
+      "lng": 72.558
+    },
+    "phone": "+92 69 2441234",
+    "whatsapp": "+92 302 9988776",
+    "website": "https://hasilpur.com/hotel/city-plaza-hotel",
+    "images": [
+      {
+        "url": "/src/assets/images/hotel_city_plaza_1790236836901.jpg",
+        "publicId": "city_plaza_ext",
+        "alt": "City Plaza Hotel Exterior"
+      }
+    ],
+    "tags": [
+      "Hotel",
+      "Executive Suites",
+      "WiFi",
+      "AC Rooms",
+      "Corporate"
+    ],
+    "services": [
+      "24/7 Front Desk",
+      "Room Service",
+      "Free High Speed WiFi",
+      "Secure Parking",
+      "Conference Room"
+    ],
+    "openingHours": [
+      "24 Hours Open"
+    ],
+    "rating": {
+      "average": 4.8,
+      "count": 86
+    },
+    "featured": true,
+    "featuredAt": "2026-09-18T14:00:00.000Z",
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-03-01T10:00:00.000Z",
+    "updatedAt": "2026-09-18T14:00:00.000Z"
+  },
+  {
+    "id": "lst_004",
+    "type": "hospital",
+    "slug": "al-noor-hospital",
+    "name": {
+      "en": "Al-Noor Hospital & Diagnostic Center",
+      "ur": "النور ہسپتال اینڈ ڈائیگنوسٹک سینٹر"
+    },
+    "shortDescription": {
+      "en": "Comprehensive 24/7 healthcare facility, emergency, and surgical center",
+      "ur": "چوبیس گھنٹے ایمرجنسی، جدید آپریشن تھیٹر اور ماہر ڈاکٹرز"
+    },
+    "description": {
+      "en": "Al-Noor Hospital delivers compassionate, advanced medical care to the residents of Tehsil Hasilpur. Staffed by qualified consultants in general surgery, gynecology, pediatrics, orthopedic medicine, and a fully automated pathology laboratory.",
+      "ur": "النور ہسپتال حاصل پور کا معیاری طبی ادارہ ہے جہاں تجربہ کار سرجن، ماہر امراض نسواں، ماہر اطفال اور چوبیس گھنٹے ایمرجنسی و ایمبولینس سروس دستیاب ہے۔"
+    },
+    "category": "hospitals",
+    "subcategory": "general",
+    "address": {
+      "en": "Bahawalpur Bypass Road, Hasilpur",
+      "ur": "بہاولپور بائی پاس روڈ، حاصل پور"
+    },
+    "location": {
+      "lat": 29.6912,
+      "lng": 72.5489
+    },
+    "phone": "+92 69 2445500",
+    "whatsapp": "+92 300 4455000",
+    "website": "",
+    "images": [
+      {
+        "url": "/src/assets/images/hospital_alnoor_1790236849415.jpg",
+        "publicId": "alnoor_hospital_1",
+        "alt": "Al-Noor Hospital Building"
+      }
+    ],
+    "tags": [
+      "Hospital",
+      "Healthcare",
+      "Emergency 24/7",
+      "Surgery",
+      "Pharmacy"
+    ],
+    "services": [
+      "24/7 Emergency",
+      "ICU",
+      "Digital X-Ray",
+      "Ultrasound",
+      "In-house Pharmacy",
+      "Ambulance"
+    ],
+    "openingHours": [
+      "24 Hours Open (Emergency)"
+    ],
+    "rating": {
+      "average": 4.7,
+      "count": 92
+    },
+    "featured": false,
+    "featuredAt": null,
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-02-01T12:00:00.000Z",
+    "updatedAt": "2026-09-10T11:00:00.000Z"
+  },
+  {
+    "id": "lst_005",
+    "type": "hospital",
+    "slug": "thq-hospital-hasilpur",
+    "name": {
+      "en": "THQ Hospital Hasilpur",
+      "ur": "تحصیل ہیڈکوارٹر ہسپتال حاصل پور"
+    },
+    "shortDescription": {
+      "en": "Government tehsil headquarters public hospital with specialized wards",
+      "ur": "سرکاری تحصیل ہیڈکوارٹر ہسپتال مع مفت ادویات و ایمرجنسی"
+    },
+    "description": {
+      "en": "The primary public medical institution serving Tehsil Hasilpur with 100+ inpatient beds, specialized dialysis unit, maternal and child healthcare, and trauma center.",
+      "ur": "تحصیل حاصل پور کا سب سے بڑا سرکاری ہسپتال جو عوام کو مفت ادویات، ڈائیلاسز، زچہ و بچہ سنٹر اور ٹراما کیئر فراہم کرتا ہے۔"
+    },
+    "category": "hospitals",
+    "subcategory": "public",
+    "address": {
+      "en": "Hospital Road, Civil Lines, Hasilpur",
+      "ur": "ہسپتال روڈ، سول لائنز، حاصل پور"
+    },
+    "location": {
+      "lat": 29.693,
+      "lng": 72.5515
+    },
+    "phone": "+92 69 920011",
+    "whatsapp": "",
+    "website": "",
+    "images": [
+      {
+        "url": "/src/assets/images/hospital_alnoor_1790236849415.jpg",
+        "publicId": "thq_hospital_1",
+        "alt": "THQ Hospital Hasilpur"
+      }
+    ],
+    "tags": [
+      "Hospital",
+      "Government",
+      "Emergency",
+      "Dialysis",
+      "Vaccination"
+    ],
+    "services": [
+      "Trauma Center",
+      "Dialysis Center",
+      "Vaccination Center",
+      "Blood Bank",
+      "Free Medicine"
+    ],
+    "openingHours": [
+      "24 Hours Open"
+    ],
+    "rating": {
+      "average": 4.9,
+      "count": 110
+    },
+    "featured": false,
+    "featuredAt": null,
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-01-05T08:00:00.000Z",
+    "updatedAt": "2026-08-30T10:00:00.000Z"
+  },
+  {
+    "id": "lst_006",
+    "type": "school",
+    "slug": "punjab-college-hasilpur",
+    "name": {
+      "en": "Punjab Group of Colleges (Hasilpur Campus)",
+      "ur": "پنجاب گروپ آف کالجز حاصل پور کیمپس"
+    },
+    "shortDescription": {
+      "en": "Premier intermediate and degree college campus with science laboratories",
+      "ur": "اعلیٰ تعلیمی معیار، جدید سائنس لیبز اور کیریئر کونسلنگ"
+    },
+    "description": {
+      "en": "Punjab College Hasilpur provides high-caliber education in FSc Pre-Medical, Pre-Engineering, ICS, I.Com, and ADP degrees with proven board position track records.",
+      "ur": "پنجاب کالج حاصل پور طلباء و طالبات کے لیے بہترین تعلیمی ماحول، باصلاحیت اساتذہ اور بورڈ پوزیشنز کا قابل فخر ادارہ ہے۔"
+    },
+    "category": "schools",
+    "subcategory": "college",
+    "address": {
+      "en": "Canal View Colony, Hasilpur",
+      "ur": "کینال ویو کالونی، حاصل پور"
+    },
+    "location": {
+      "lat": 29.7021,
+      "lng": 72.551
+    },
+    "phone": "+92 69 2443000",
+    "whatsapp": "+92 300 8899000",
+    "website": "https://pgc.edu",
+    "images": [
+      {
+        "url": "/src/assets/images/hero_hasilpur_city_1790236814417.jpg",
+        "publicId": "pgc_hasilpur_campus",
+        "alt": "Punjab College Hasilpur Campus"
+      }
+    ],
+    "tags": [
+      "College",
+      "Education",
+      "FSc",
+      "ICS",
+      "Science Labs"
+    ],
+    "services": [
+      "Science Labs",
+      "Computer Labs",
+      "Library",
+      "Transport Fleet",
+      "Sports Ground"
+    ],
+    "openingHours": [
+      "Monday - Saturday: 8:00 AM - 2:00 PM"
+    ],
+    "rating": {
+      "average": 4.9,
+      "count": 145
+    },
+    "featured": true,
+    "featuredAt": "2026-09-15T09:00:00.000Z",
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-01-20T08:00:00.000Z",
+    "updatedAt": "2026-09-15T09:00:00.000Z"
+  },
+  {
+    "id": "lst_007",
+    "type": "market",
+    "slug": "ghalla-mandi-hasilpur",
+    "name": {
+      "en": "Ghalla Mandi Hasilpur (Grain & Cotton Market)",
+      "ur": "غلہ منڈی حاصل پور (اناج و کپاس مارکیٹ)"
+    },
+    "shortDescription": {
+      "en": "Historical regional agricultural trading hub for cotton, wheat, and mustard",
+      "ur": "کپاس، گندم اور سرسوں کی تاریخی و بڑی تجارتی منڈی"
+    },
+    "description": {
+      "en": "Hasilpur Ghalla Mandi is the commercial pulse of Southern Punjab's agricultural belt. Thousands of farmers and merchants trade premium cotton bales, wheat grains, sunflower crops, and agricultural commodities daily.",
+      "ur": "حاصل پور غلہ منڈی جنوبی پنجاب کی زرعی معیشت کا دل ہے جہاں کپاس اور گندم کی روزانہ بولی اور تجارت کی جاتی ہے۔"
+    },
+    "category": "markets",
+    "subcategory": "agriculture",
+    "address": {
+      "en": "Mandi Road, Hasilpur Old City",
+      "ur": "منڈی روڈ، پرانا شہر حاصل پور"
+    },
+    "location": {
+      "lat": 29.6945,
+      "lng": 72.5562
+    },
+    "phone": "+92 69 2442211",
+    "whatsapp": "",
+    "website": "",
+    "images": [
+      {
+        "url": "/src/assets/images/hero_hasilpur_city_1790236814417.jpg",
+        "publicId": "ghalla_mandi_1",
+        "alt": "Ghalla Mandi Hasilpur Trading Hub"
+      }
+    ],
+    "tags": [
+      "Market",
+      "Cotton",
+      "Wheat",
+      "Agriculture",
+      "Trade"
+    ],
+    "services": [
+      "Daily Auction",
+      "Weighbridge (Kanta)",
+      "Warehouses",
+      "Commission Agents"
+    ],
+    "openingHours": [
+      "Monday - Saturday: 7:00 AM - 6:00 PM"
+    ],
+    "rating": {
+      "average": 4.5,
+      "count": 68
+    },
+    "featured": false,
+    "featuredAt": null,
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-02-05T09:00:00.000Z",
+    "updatedAt": "2026-09-01T15:00:00.000Z"
+  },
+  {
+    "id": "lst_008",
+    "type": "petrol-pump",
+    "slug": "hascol-petroleum-bypass",
+    "name": {
+      "en": "Hascol Petroleum & Service Station",
+      "ur": "ہیسکول پٹرولیم اینڈ سروس اسٹیشن"
+    },
+    "shortDescription": {
+      "en": "24/7 fuel, high octane, automated car wash, and mart facility",
+      "ur": "چوبیس گھنٹے پٹرول، ڈیزل، ہائی اوکٹین اور کار واش"
+    },
+    "description": {
+      "en": "Located conveniently at Chishtian Bypass Chowk, Hascol provides certified quality fuel, lubricants, tyre care, automated touchless car wash, and 24/7 convenience store.",
+      "ur": "چشتیاں بائی پاس پر معیاری پٹرول و ڈیزل، موٹر آئل، الیکٹرانک ٹائر ایئر اور سہولت مارٹ۔"
+    },
+    "category": "petrol-pumps",
+    "subcategory": "fuel",
+    "address": {
+      "en": "Chishtian Bypass Chowk, Hasilpur",
+      "ur": "چشتیاں بائی پاس چوک، حاصل پور"
+    },
+    "location": {
+      "lat": 29.7042,
+      "lng": 72.562
+    },
+    "phone": "+92 300 9876543",
+    "whatsapp": "",
+    "website": "",
+    "images": [
+      {
+        "url": "/src/assets/images/hero_hasilpur_city_1790236814417.jpg",
+        "publicId": "hascol_pump_1",
+        "alt": "Hascol Petroleum Hasilpur"
+      }
+    ],
+    "tags": [
+      "Fuel",
+      "Petrol Pump",
+      "High Octane",
+      "Car Wash",
+      "Mart"
+    ],
+    "services": [
+      "24/7 Fuel",
+      "ATM Service",
+      "Car Wash",
+      "Tyre Inflation",
+      "Convenience Mart"
+    ],
+    "openingHours": [
+      "24 Hours Open"
+    ],
+    "rating": {
+      "average": 4.4,
+      "count": 52
+    },
+    "featured": false,
+    "featuredAt": null,
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-02-18T10:00:00.000Z",
+    "updatedAt": "2026-08-25T11:00:00.000Z"
+  },
+  {
+    "id": "lst_009",
+    "type": "shop",
+    "slug": "al-madina-cloth-house",
+    "name": {
+      "en": "Al-Madina Cloth House & Fabrics",
+      "ur": "المدینہ کلوتھ ہاؤس اینڈ فیبرکس"
+    },
+    "shortDescription": {
+      "en": "Original unstitched cotton, Boski, Karandi, and designer bridal collections",
+      "ur": "اصلی بوسکی، کاٹن، کھدر اور شادی بیاہ کے ملبوسات"
+    },
+    "description": {
+      "en": "Al-Madina Cloth House in Sarafa Bazaar is Hasilpur's most trusted name for authentic Kamalia Khaddar, genuine Japanese Boski, premium wash & wear, and fine bridal suiting.",
+      "ur": "صرافہ بازار میں معیاری کمالیہ کھدر، جاپانی بوسکی اور شاندار زنانہ و مردانہ سوٹنگ کا قابل اعتماد اسٹور۔"
+    },
+    "category": "shops",
+    "subcategory": "fabrics",
+    "address": {
+      "en": "Sarafa Bazaar, Hasilpur",
+      "ur": "صرافہ بازار، حاصل پور"
+    },
+    "location": {
+      "lat": 29.697,
+      "lng": 72.554
+    },
+    "phone": "+92 301 5566778",
+    "whatsapp": "+92 301 5566778",
+    "website": "",
+    "images": [
+      {
+        "url": "/src/assets/images/hero_hasilpur_city_1790236814417.jpg",
+        "publicId": "almadina_cloth_1",
+        "alt": "Al-Madina Fabrics Display"
+      }
+    ],
+    "tags": [
+      "Cloth",
+      "Fabrics",
+      "Boski",
+      "Khaddar",
+      "Shopping"
+    ],
+    "services": [
+      "Wholesale & Retail",
+      "Custom Tailoring Orders",
+      "Home Delivery Across Pakistan"
+    ],
+    "openingHours": [
+      "Monday - Saturday: 9:30 AM - 10:00 PM"
+    ],
+    "rating": {
+      "average": 4.6,
+      "count": 44
+    },
+    "featured": false,
+    "featuredAt": null,
+    "featuredUntil": null,
+    "verified": true,
+    "status": "published",
+    "createdAt": "2026-03-05T11:00:00.000Z",
+    "updatedAt": "2026-09-02T16:00:00.000Z"
+  }
+]
