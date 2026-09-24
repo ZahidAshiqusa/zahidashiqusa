@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rev_mufal1gh_a7k2",
+    "listingId": "lst_001",
+    "userId": "usr_zahid_ashiq",
+    "userEmail": "zahidashiqusa@gmail.com",
+    "name": "Zahid Ashiq",
+    "rating": 5,
+    "comment": "Exceptional Karahi and prompt service. The staff in Hasilpur were courteous and the food was freshly cooked.",
+    "status": "approved",
+    "createdAt": "2026-09-24T08:50:50.657Z"
+  },
+  {
+    "id": "rev_muf921q2_djb6",
+    "listingId": "lst_001",
+    "name": "Chaudhry Bilal",
+    "rating": 5,
+    "comment": "Best Karahi and traditional service in Hasilpur!",
+    "status": "approved",
+    "createdAt": "2026-09-24T08:08:04.922Z"
+  },
+  {
+    "id": "rev_001",
+    "listingId": "lst_001",
+    "name": "Chaudhry Tariq Mehmood",
+    "rating": 5,
+    "comment": "Al-Barkat provides the best mutton karahi and seekh kebabs in Hasilpur. The family hall is spacious and comfortable.",
+    "status": "approved",
+    "createdAt": "2026-09-18T19:30:00.000Z"
+  },
+  {
+    "id": "rev_002",
+    "listingId": "lst_001",
+    "name": "Dr. Farooq Qureshi",
+    "rating": 4,
+    "comment": "Fast service and clean seating. The roghni naans were hot and crispy.",
+    "status": "approved",
+    "createdAt": "2026-09-19T20:15:00.000Z"
+  },
+  {
+    "id": "rev_003",
+    "listingId": "lst_003",
+    "name": "Hamza Abbasi",
+    "rating": 5,
+    "comment": "Clean rooms with reliable generator backup and great air conditioning. Highly recommended for travelers visiting Hasilpur.",
+    "status": "approved",
+    "createdAt": "2026-09-17T11:00:00.000Z"
+  },
+  {
+    "id": "rev_004",
+    "listingId": "lst_004",
+    "name": "Zahid Ashiq",
+    "rating": 5,
+    "comment": "Experienced doctors and quick emergency response. The diagnostic lab tests were ready within two hours.",
+    "status": "approved",
+    "createdAt": "2026-09-15T16:20:00.000Z"
+  }
+]
